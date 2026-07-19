@@ -7,7 +7,7 @@
 <h1 align="center">Sustainable FSA</h1>
 
 <p align="center">
-  <strong>Enhancing USDA Farm Service Agency disaster relief with gold standard science.</strong><br/>
+  <strong>Data-informed disaster assistance for producers.</strong><br/>
   A USDA-funded research partnership led by the
   <a href="https://climate.umt.edu">Montana Climate Office</a> at the University of Montana,
   working with the USDA Climate Hubs, Office of the Chief Economist, and Farm Service Agency.
