@@ -16,8 +16,8 @@
 <p align="center">
   🌐 <a href="https://sustainable-fsa.com"><strong>sustainable-fsa.com</strong></a> ·
   📊 <a href="https://sustainable-fsa.com/data/">Data archives</a> ·
-  📈 <a href="https://sustainable-fsa.com/analysis/">Analyses</a> ·
-  📚 <a href="https://sustainable-fsa.com/documents/">Document library</a> ·
+  📈 <a href="https://sustainable-fsa.com/publications/">Publications</a> ·
+  📚 <a href="https://sustainable-fsa.com/library/">Library</a> ·
   👥 <a href="https://sustainable-fsa.com/team/">Team</a>
 </p>
 
